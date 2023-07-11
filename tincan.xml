@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Supporting Customers through Empathy</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/67X4kH6ntjq" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Supporting Customers through Empathy</name>
+			<description lang="und">Supporting Customers through Empathy</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/68RxNXt1MlL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Supporting Customers through Empathy</name>
+			<description lang="und">Supporting Customers through Empathy</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5lf2QwEtvgb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objectives</name>
+			<description lang="und">Objectives</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5niNE2EHLWe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy is the ability to put yourself in someone else's shoes and imagine what that person may be going through.</name>
+			<description lang="und">Empathy is the ability to put yourself in someone else's shoes and imagine what that person may be going through.</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6ebvQ6iQLLq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy… </name>
+			<description lang="und">Empathy… </description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6YN4Arr5ZMj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy Explained</name>
+			<description lang="und">Empathy Explained</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/674OAMmhDqg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy Explained</name>
+			<description lang="und">Empathy Explained</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5Vp0R0MjCi6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy &amp; Customer Service</name>
+			<description lang="und">Empathy &amp; Customer Service</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6EL4eZ8sfyD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy &amp; Customer Service</name>
+			<description lang="und">Empathy &amp; Customer Service</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5cj6hLMNN6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy &amp; Customer Service</name>
+			<description lang="und">Empathy &amp; Customer Service</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6pl43bLYc4K" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Methods</name>
+			<description lang="und">Methods</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6Y6UTKg0Sct" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actively Listen</name>
+			<description lang="und">Actively Listen</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5bvHeGhjkHJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Acknowledge Feelings</name>
+			<description lang="und">Acknowledge Feelings</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6M5mbaK9udB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tone of Voice</name>
+			<description lang="und">Tone of Voice</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5nsM6tvQSe8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Sincerely Apologize</name>
+			<description lang="und">Sincerely Apologize</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6LG8LaRr3iz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SCENARIO</name>
+			<description lang="und">SCENARIO</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6Tbvm21JD9q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click to learn more about how [COMPANY’S] business model shows empathy</name>
+			<description lang="und">Click to learn more about how [COMPANY’S] business model shows empathy</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5mVBVpkHe1e" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5brC36JCpWx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">In this module, you learned…</name>
+			<description lang="und">In this module, you learned…</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5dwmwQAhzqI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click to learn more about how [COMPANY’S] business model shows empathy</name>
+			<description lang="und">Click to learn more about how [COMPANY’S] business model shows empathy</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5YXYZgp0XcH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz Results</name>
+			<description lang="und">Quiz Results</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5bN8XbXgH6M" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy &amp; sympathy are essentially the same.</name>
+			<description lang="und">Empathy &amp; sympathy are essentially the same.</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5bN8XbXgH6M/6ceuwL67r87" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Empathy &amp; sympathy are essentially the same.</name>
+			<description lang="und">Empathy &amp; sympathy are essentially the same.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ctm1PUp1RF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6a3nnyYCglj</id>
+					<description lang="und">True </description>
+				</component>
+				<component>
+					<id>choice_6ctm1PUp1RF</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6e0G0tuQGWK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What are general benefits of practicing empathy?
+</name>
+			<description lang="und">What are general benefits of practicing empathy?
+</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6e0G0tuQGWK/5knAxhthA8b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What are general benefits of practicing empathy?
+</name>
+			<description lang="und">What are general benefits of practicing empathy?
+</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5uJfl3HzdLj</correctResponsePattern>
+				<correctResponsePattern>choice_6kXqcZYPfSd</correctResponsePattern>
+				<correctResponsePattern>choice_6Xh8emPGXAa</correctResponsePattern>
+				<correctResponsePattern>choice_5YRtxmzauju</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5uJfl3HzdLj</id>
+					<description lang="und">Help increase your emotional intelligence</description>
+				</component>
+				<component>
+					<id>choice_6kXqcZYPfSd</id>
+					<description lang="und">Improved communication</description>
+				</component>
+				<component>
+					<id>choice_6Xh8emPGXAa</id>
+					<description lang="und">Better relationships</description>
+				</component>
+				<component>
+					<id>choice_5YRtxmzauju</id>
+					<description lang="und">Connect with other people on a deeper level</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6Hz9OCnIMwM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What are potential benefits of practicing empathy in customer service?
+</name>
+			<description lang="und">What are potential benefits of practicing empathy in customer service?
+</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6Hz9OCnIMwM/5gWvAwkhlWL" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What are potential benefits of practicing empathy in customer service?
+</name>
+			<description lang="und">What are potential benefits of practicing empathy in customer service?
+</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6EXeEUEGtlV</correctResponsePattern>
+				<correctResponsePattern>choice_6QDbi8heWoy</correctResponsePattern>
+				<correctResponsePattern>choice_5pNKmBHfV7l</correctResponsePattern>
+				<correctResponsePattern>choice_62cVU5HBC3v</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6EXeEUEGtlV</id>
+					<description lang="und">Increased customer satisfaction &amp; retention</description>
+				</component>
+				<component>
+					<id>choice_6QDbi8heWoy</id>
+					<description lang="und">More likely to recommend [Company] to others</description>
+				</component>
+				<component>
+					<id>choice_5pNKmBHfV7l</id>
+					<description lang="und">More likely to continue doing business with [Company]</description>
+				</component>
+				<component>
+					<id>choice_62cVU5HBC3v</id>
+					<description lang="und">May prevent negative reviews or complaints</description>
+				</component>
+				<component>
+					<id>choice_5hcHovTbuPg</id>
+					<description lang="und">Less likely to develop trust &amp; loyalty towards [Company]</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5WHIWxUl4j6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which of these are examples of empathetic phrases that can be used to acknowledge a customer’s feelings?
+</name>
+			<description lang="und">Which of these are examples of empathetic phrases that can be used to acknowledge a customer’s feelings?
+</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5WHIWxUl4j6/5rScbff8ph6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of these are examples of empathetic phrases that can be used to acknowledge a customer’s feelings?
+</name>
+			<description lang="und">Which of these are examples of empathetic phrases that can be used to acknowledge a customer’s feelings?
+</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5kEMlYRaFwE</correctResponsePattern>
+				<correctResponsePattern>choice_60BKfC7xgR0</correctResponsePattern>
+				<correctResponsePattern>choice_6izvThbYslH</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5kEMlYRaFwE</id>
+					<description lang="und">I can imagine how disappointing this must be for you.</description>
+				</component>
+				<component>
+					<id>choice_60BKfC7xgR0</id>
+					<description lang="und">Your feelings are important to us and we want to make things right.</description>
+				</component>
+				<component>
+					<id>choice_6izvThbYslH</id>
+					<description lang="und">I can understand why you might feel frustrated about this.</description>
+				</component>
+				<component>
+					<id>choice_6M3FiAPKF7y</id>
+					<description lang="und">Your food may not be hot, but you did get it in less than an hour.</description>
+				</component>
+				<component>
+					<id>choice_5c7z9iXdc8f</id>
+					<description lang="und">Are you sure you didn’t make a mistake inputting your order?</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5e4aVjEke2n" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which of the five methods discussed in this training do you feel the most confident with your skills? (there is no single correct answer - just be honest!)</name>
+			<description lang="und">Which of the five methods discussed in this training do you feel the most confident with your skills? (there is no single correct answer - just be honest!)</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5e4aVjEke2n/5iqqp5AOnLp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of the five methods discussed in this training do you feel the most confident with your skills? (there is no single correct answer - just be honest!)</name>
+			<description lang="und">Which of the five methods discussed in this training do you feel the most confident with your skills? (there is no single correct answer - just be honest!)</description>
+			<interactionType>choice</interactionType>
+			<choices>
+				<component>
+					<id>choice_6cD7T6RYAo4</id>
+					<description lang="und">Actively listen</description>
+				</component>
+				<component>
+					<id>choice_5WeLqkqXcMj</id>
+					<description lang="und">Acknowledge feelings</description>
+				</component>
+				<component>
+					<id>choice_5Znqn7qht4L</id>
+					<description lang="und">Tone of voice</description>
+				</component>
+				<component>
+					<id>choice_6No6LN2D2No</id>
+					<description lang="und">Sincerely apologize</description>
+				</component>
+				<component>
+					<id>choice_6MBut44a1wP</id>
+					<description lang="und">Follow up</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/6pLDrfTXu0c" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">6/7  | Text Entry</name>
+			<description lang="und">6/7  | Text Entry</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5zm2v0pb3GL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">[Company’s] business model shows empathy across the four categories below – match the correct descriptions to each category.</name>
+			<description lang="und">[Company’s] business model shows empathy across the four categories below – match the correct descriptions to each category.</description>
+		</activity>
+		<activity id="http://elearningbrothers.com/xAPItmp/GECKO/10415128/5zm2v0pb3GL/6Ciwowp3dgw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">[Company’s] business model shows empathy across the four categories below – match the correct descriptions to each category.</name>
+			<description lang="und">[Company’s] business model shows empathy across the four categories below – match the correct descriptions to each category.</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5xVOHw85SUf[.]choice_5xVOHw85SUf</correctResponsePattern>
+				<correctResponsePattern>statement_5x65PBrWPdq[.]choice_5x65PBrWPdq</correctResponsePattern>
+				<correctResponsePattern>statement_6XV6rf5mnYR[.]choice_6XV6rf5mnYR</correctResponsePattern>
+				<correctResponsePattern>statement_5uS9UHwkCWO[.]choice_5uS9UHwkCWO</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5xVOHw85SUf</id>
+					<description lang="und">Customers</description>
+				</component>
+				<component>
+					<id>statement_5x65PBrWPdq</id>
+					<description lang="und">Runners</description>
+				</component>
+				<component>
+					<id>statement_6XV6rf5mnYR</id>
+					<description lang="und">Merchants</description>
+				</component>
+				<component>
+					<id>statement_5uS9UHwkCWO</id>
+					<description lang="und">Communities</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5xVOHw85SUf</id>
+					<description lang="und">Provides real-time updates, easy refunds &amp; credits, 24/7 customer support.</description>
+				</component>
+				<component>
+					<id>choice_5x65PBrWPdq</id>
+					<description lang="und">Timely &amp; relevant information, flexible schedules, fair compensation.</description>
+				</component>
+				<component>
+					<id>choice_6XV6rf5mnYR</id>
+					<description lang="und">Dedicated support to help resolve any issues or concerns that they may have; access to a team of specialists.</description>
+				</component>
+				<component>
+					<id>choice_5uS9UHwkCWO</id>
+					<description lang="und">Project RUN empowers food banks &amp; food pantries to work with RUNNERS &amp; use [Company] technology to increase access to food in their communities.</description>
+				</component>
+			</target>
+		</activity>
+	</activities>
+</tincan>
